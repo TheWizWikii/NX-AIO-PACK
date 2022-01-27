@@ -1,5 +1,6 @@
 # NX-AIO-PACK
-Switch AIO package
+
+### Contenido Switch AIO package
 
 - Carpeta con los 2 payloads principales de arranque. (Con esto arrancas el hack en la consola)
 - Todos archivos de Atmosphère. (Es el CFW “custom firmware personalizado” de código abierto el cual permite hacer modificaciones y ejecutar cervezas caseras “hombrew de terceras personas” a la consola)
