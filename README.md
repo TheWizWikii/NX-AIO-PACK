@@ -15,3 +15,25 @@
 - Payload Lockpick_RCM.bin (Para volcar las keys)
 - Payload TegraExplorer.bin 4.0.1 (Ejecuta varias operaciones)
 - MissionControl 0.6.4 (Permite conectar mandos por Bluetooth)
+
+---
+
+### Como usarlo
+
+https://wiki-techreviews.com/configuracion-cfw-aio-para-switch/
+
+---
+
+### Credits:
+
+- **#Scires**
+- **#CTCaer**
+- **#ndeadly**
+- **#XorTroll**
+- **#suchmememanyskill**
+- **#shchmue**
+- **#ITotalJustice**
+- **#Huntereb**
+- **#FlagBrew**
+- **#mtheall**
+- **#blawar**
