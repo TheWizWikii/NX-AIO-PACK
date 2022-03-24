@@ -15,6 +15,8 @@
 - Payload Lockpick_RCM.bin (Para volcar las keys)
 - Payload TegraExplorer.bin 4.0.1 (Ejecuta varias operaciones)
 - MissionControl 0.6.4 (Permite conectar mandos por Bluetooth)
+- Youtube Patched
+- Hombrew Appstore
 
 Descarga la última versión: https://github.com/TheWizWikii/NX-AIO-PACK/releases
 
