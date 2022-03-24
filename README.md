@@ -17,6 +17,7 @@
 - MissionControl 0.6.4 (Permite conectar mandos por Bluetooth)
 - Youtube Patched
 - Hombrew Appstore
+- FW 14.0.0
 
 Descarga la última versión: https://github.com/TheWizWikii/NX-AIO-PACK/releases
 
