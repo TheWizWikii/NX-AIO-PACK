@@ -22,7 +22,7 @@ Descarga la última versión: https://github.com/TheWizWikii/NX-AIO-PACK/release
 
 ---
 
-### Como usarlo
+### Como usarlo o actualizar el pack
 
 https://wiki-techreviews.com/configuracion-cfw-aio-para-switch/
 
